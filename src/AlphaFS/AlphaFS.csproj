@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
   <Import Project="..\..\build\common.props" />
   <PropertyGroup>
-    <TargetFrameworks>net45;net46;net47;netstandard20</TargetFrameworks>
+    <TargetFrameworks>net48;netstandard20</TargetFrameworks>
     <IsPackable>true</IsPackable>
     <PackageId>AlphaFS</PackageId>
     <Title>AlphaFS</Title>
